@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syawqy
 - 👀 I’m interested in game dev and backend
-- 🌱 I’m currently learning python, java, rust
+- 🌱 I’m currently learning python, ruby and golang
 - 💞️ I’m looking to collaborate on game project
 - 📫 How to reach me, send me email xfuadi [at] gmail [dot] com
 
